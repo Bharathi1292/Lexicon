@@ -1,0 +1,1 @@
+print("Hello my dog's name is {} and he is {} years old".format('Sammy',4))
